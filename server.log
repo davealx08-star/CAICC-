@@ -1,0 +1,4 @@
+C:\Users\David Alexander\aplikasi-flashcard\app.py:267: DeprecationWarning: The 'theme' parameter in the Blocks constructor will be removed in Gradio 6.0. You will need to pass 'theme' to Blocks.launch() instead.
+  with gr.Blocks(title="Feynman Student AI", theme=gr.themes.Soft()) as demo:
+C:\Users\David Alexander\aplikasi-flashcard\app.py:288: DeprecationWarning: The default value of 'allow_tags' in gr.Chatbot will be changed from False to True in Gradio 6.0. You will need to explicitly set allow_tags=False if you want to disable tags in your chatbot.
+  chatbot = gr.Chatbot(
